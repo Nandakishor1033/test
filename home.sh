@@ -5,4 +5,13 @@ export PATH=$PATH:$home/bin
 
 echo "Path is $PATH"
 
+echo "Path is $PATH"
+echo "Path is $PATH"
+echo "Path is $PATH"
+echo "Path is $PATH"
+echo "Path is $PATH"
+echo "Path is $PATH"
+
+
+
 
